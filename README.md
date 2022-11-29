@@ -1,5 +1,5 @@
 # Deep Learning Nanodegree
-# Deep Learning
+
 ## Project: Landmark Classification & Tagging for Social Media
 
  In this project, I developed a deep learning model using Pytorch to detect and classify landmarks.
