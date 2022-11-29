@@ -38,6 +38,6 @@ jupyter notebook landmark(4).ipynb
 This will open the iPython Notebook software in your browser.
 
 ### Data
-The data is subset of the Google Landmarks Dataset v2. ([link](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/datasets/landmark_images.zip).
+The data is subset of the Google Landmarks Dataset v2. [link](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/datasets/landmark_images.zip).
 
 
