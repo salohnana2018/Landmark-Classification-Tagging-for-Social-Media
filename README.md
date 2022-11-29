@@ -7,8 +7,8 @@
 
 ### Install
 
-This project required **Python 3.x** 
-
+This project require
+- Python 3.x
 - [NumPy](http://www.numpy.org/)
 - [glob](https://docs.python.org/3/library/glob.html)
 - [cv2](https://pypi.org/project/opencv-python/)
